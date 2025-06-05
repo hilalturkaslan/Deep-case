@@ -1,1 +1,1 @@
-# Deep-case
+Deep case study
