@@ -1,1 +1,1 @@
-Deep case study
+Deep learning case study 
