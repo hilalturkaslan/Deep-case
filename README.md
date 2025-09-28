@@ -1,1 +1,1 @@
-Deep learning app for ai case study 
+Deep learning app for ai sample case study 
