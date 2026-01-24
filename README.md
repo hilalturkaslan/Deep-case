@@ -1,1 +1,1 @@
-Deep learning is a app for do make than ai case study 
+Deep learning is a app for done make ai case study 
